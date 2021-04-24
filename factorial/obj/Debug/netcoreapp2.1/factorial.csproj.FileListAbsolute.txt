@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\factorial_recursion\factorial\bin\Debug\netcoreapp2.1\factorial.deps.json
+C:\Users\hp\source\repos\factorial_recursion\factorial\bin\Debug\netcoreapp2.1\factorial.runtimeconfig.json
+C:\Users\hp\source\repos\factorial_recursion\factorial\bin\Debug\netcoreapp2.1\factorial.runtimeconfig.dev.json
+C:\Users\hp\source\repos\factorial_recursion\factorial\bin\Debug\netcoreapp2.1\factorial.dll
+C:\Users\hp\source\repos\factorial_recursion\factorial\bin\Debug\netcoreapp2.1\factorial.pdb
+C:\Users\hp\source\repos\factorial_recursion\factorial\obj\Debug\netcoreapp2.1\factorial.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\factorial_recursion\factorial\obj\Debug\netcoreapp2.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\factorial_recursion\factorial\obj\Debug\netcoreapp2.1\factorial.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\factorial_recursion\factorial\obj\Debug\netcoreapp2.1\factorial.AssemblyInfo.cs
+C:\Users\hp\source\repos\factorial_recursion\factorial\obj\Debug\netcoreapp2.1\factorial.dll
+C:\Users\hp\source\repos\factorial_recursion\factorial\obj\Debug\netcoreapp2.1\factorial.pdb

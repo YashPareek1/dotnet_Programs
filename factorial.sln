@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorial_N", "factorial\factorial_N.csproj", "{F337FAA4-D955-4D53-8C52-0EDEA4E3537A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorial_Recursion", "factorial_normal\factorial_Recursion.csproj", "{B29B2AD4-CDE6-4DB4-ABC7-D5AE6FEDA1A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F337FAA4-D955-4D53-8C52-0EDEA4E3537A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F337FAA4-D955-4D53-8C52-0EDEA4E3537A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F337FAA4-D955-4D53-8C52-0EDEA4E3537A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F337FAA4-D955-4D53-8C52-0EDEA4E3537A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29B2AD4-CDE6-4DB4-ABC7-D5AE6FEDA1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29B2AD4-CDE6-4DB4-ABC7-D5AE6FEDA1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29B2AD4-CDE6-4DB4-ABC7-D5AE6FEDA1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29B2AD4-CDE6-4DB4-ABC7-D5AE6FEDA1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCB509C-104C-4FA9-95E7-213D097378C3}
+	EndGlobalSection
+EndGlobal
